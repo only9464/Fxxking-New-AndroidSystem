@@ -1,6 +1,6 @@
-# Acrylic
+# F-N-AS
 
-Acrylic为Wails框架的Vue模板，用于开发桌面应用程序，主要主题色为半透明毛玻璃效果的白色，因而取名Acrylic。(实际上是因为懒得想名字 (bushi))
+F-N-AS为Wails框架的Vue模板，用于开发桌面应用程序，主要主题色为半透明毛玻璃效果的白色，因而取名F-N-AS。(实际上是因为懒得想名字 (bushi))
 
 
 # 一、开发环境
@@ -118,7 +118,7 @@ const routes = [
 ```vue
 <template>
   <div class="sidebar-container">
-    <div class="sidebar acrylic-effect">
+    <div class="sidebar F-N-AS-effect">
       <div class="menu-container">
         <ul>
           <li>

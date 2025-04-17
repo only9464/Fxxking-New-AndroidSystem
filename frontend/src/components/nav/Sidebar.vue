@@ -1,6 +1,6 @@
 <template>
   <div class="sidebar-container">
-    <div class="sidebar acrylic-effect">
+    <div class="sidebar F-N-AS-effect">
       <div class="menu-container">
         <ul>
 
@@ -71,7 +71,7 @@
   padding-bottom: 20px;
 }
 
-.acrylic-effect {
+.F-N-AS-effect {
   background: linear-gradient(
     135deg,
     rgba(255, 255, 255, 0.15),
@@ -161,7 +161,7 @@
 }
 
 @media (prefers-color-scheme: dark) {
-  .acrylic-effect {
+  .F-N-AS-effect {
     background: linear-gradient(
       135deg,
       rgba(255, 255, 255, 0.1),

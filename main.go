@@ -39,7 +39,7 @@ func main() {
 		Linux: &linux.Options{
 			WindowIsTranslucent: true,
 			WebviewGpuPolicy:    linux.WebviewGpuPolicyAlways,
-			ProgramName:         "Acrylic",
+			ProgramName:         "F-N-AS",
 			Icon:                appIcon,
 		},
 		Mac: &mac.Options{

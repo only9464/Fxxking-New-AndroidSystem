@@ -94,10 +94,10 @@ const currentProgramPath = ref('')
 
 // 定义可选的更新源
 const sources = ref([
-  { label: 'Github', value: 'github', downloadLink: 'https://github.com/only9464/Acrylic' },
-  { label: 'Gitlab', value: 'gitlab', downloadLink: 'https://gitlab.com/only9464/Acrylic' },
-  { label: 'Gitee', value: 'gitee', downloadLink: 'https://gitee.com/only9464/Acrylic' },
-  { label: 'Atom', value: 'atomgit', downloadLink: 'https://atomgit.com/only9464/Acrylic' },
+  { label: 'Github', value: 'github', downloadLink: 'https://github.com/only9464/F-N-AS' },
+  { label: 'Gitlab', value: 'gitlab', downloadLink: 'https://gitlab.com/only9464/F-N-AS' },
+  { label: 'Gitee', value: 'gitee', downloadLink: 'https://gitee.com/only9464/F-N-AS' },
+  { label: 'Atom', value: 'atomgit', downloadLink: 'https://atomgit.com/only9464/F-N-AS' },
   // 可以根据需要添加更多源
 ])
 

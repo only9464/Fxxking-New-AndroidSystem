@@ -1,9 +1,9 @@
 package main
 
 import (
-	"Acrylic/apps/First"
-	"Acrylic/apps/Second"
-	"Acrylic/apps/Settings"
+	"F-N-AS/apps/First"
+	"F-N-AS/apps/Second"
+	"F-N-AS/apps/Settings"
 	"context"
 )
 

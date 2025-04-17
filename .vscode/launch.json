@@ -2,29 +2,29 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "Wails: Production Acrylic",
+      "name": "Wails: Production F-N-AS",
       "type": "go",
       "request": "launch",
       "mode": "exec",
-      "program": "${workspaceFolder}/build/bin/Acrylic.exe",
+      "program": "${workspaceFolder}/build/bin/F-N-AS.exe",
       "preLaunchTask": "build",
       "cwd": "${workspaceFolder}"
     },
     {
-      "name": "Wails: Debug Acrylic",
+      "name": "Wails: Debug F-N-AS",
       "type": "go",
       "request": "launch",
       "mode": "exec",
-      "program": "${workspaceFolder}/build/bin/Acrylic.exe",
+      "program": "${workspaceFolder}/build/bin/F-N-AS.exe",
       "preLaunchTask": "build debug",
       "cwd": "${workspaceFolder}"
     },
     {
-      "name": "Wails: Dev Acrylic",
+      "name": "Wails: Dev F-N-AS",
       "type": "go",
       "request": "launch",
       "mode": "exec",
-      "program": "${workspaceFolder}/build/bin/Acrylic.exe",
+      "program": "${workspaceFolder}/build/bin/F-N-AS.exe",
       "preLaunchTask": "build dev",
       "cwd": "${workspaceFolder}"
     }
